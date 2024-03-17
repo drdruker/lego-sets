@@ -21,6 +21,28 @@
       "depth": "6",
       "weight": "12",
       "quantity": "40"
+    },
+    {
+      "fileImage": "/lego-images/bookshop-10270.jpg",
+      "modelName": "Bookshop",
+      "modelTheme": "Builder",
+      "modelNumber": "10270",
+      "length": "8",
+      "height": "8",
+      "depth": "4",
+      "weight": "6.5",
+      "quantity": "102"
+    },
+    {
+      "fileImage": "/lego-images/corner-garage-10264.jpg",
+      "modelName": "Corner Garage",
+      "modelTheme": "Builder",
+      "modelNumber": "10264",
+      "length": "8",
+      "height": "8",
+      "depth": "4",
+      "weight": "6.5",
+      "quantity": "102"
     }
   ]
 }
