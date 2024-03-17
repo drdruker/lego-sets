@@ -1,10 +1,10 @@
 {
   "description": [
     {
-      "fileImage": "/lego-images/fender-21329.jpg",
+      "fileImage": "/lego-images/winter-village-10263.jpg",
       "modelName": "Winter Village",
       "modelTheme": "Icon",
-      "modelNumber": "20765",
+      "modelNumber": "10263",
       "length": "20",
       "height": "14",
       "depth": "2",
@@ -13,9 +13,9 @@
     },
     {
       "fileImage": "/lego-images/fender-21329.jpg",
-      "modelName": "Millenium Falcon the one and the only can it be",
+      "modelName": "Fender Guitar",
       "modelTheme": "Star Wars",
-      "modelNumber": "20902",
+      "modelNumber": "21329",
       "length": "25",
       "height": "18",
       "depth": "6",
@@ -23,15 +23,26 @@
       "quantity": "40"
     },
     {
-      "fileImage": "/lego-images/fender-21329.jpg",
-      "modelName": "Diner",
+      "fileImage": "/lego-images/bookshop-10270.jpg",
+      "modelName": "Bookshop",
       "modelTheme": "Builder",
-      "modelNumber": "10249",
+      "modelNumber": "10270",
       "length": "8",
       "height": "8",
       "depth": "4",
       "weight": "6.5",
       "quantity": "102"
-    }
+    },
+        {
+      "fileImage": "/lego-images/corner-garage-10264.jpg",
+      "modelName": "Corner Garage",
+      "modelTheme": "Builder",
+      "modelNumber": "10264",
+      "length": "8",
+      "height": "8",
+      "depth": "4",
+      "weight": "6.5",
+      "quantity": "102"
+    },
   ]
 }
