@@ -43,6 +43,28 @@
       "depth": "4",
       "weight": "6.5",
       "quantity": "102"
+    },
+    {
+      "fileImage": "/lego-images/jazz-club-10312.jpg",
+      "modelName": "Jazz Club",
+      "modelTheme": "Builder",
+      "modelNumber": "10312",
+      "length": "8",
+      "height": "8",
+      "depth": "4",
+      "weight": "6.5",
+      "quantity": "102"
+    },
+    {
+      "fileImage": "/lego-images/taj-mahal-10256.jpg",
+      "modelName": "Taj Mahal",
+      "modelTheme": "Builder",
+      "modelNumber": "10264",
+      "length": "8",
+      "height": "8",
+      "depth": "4",
+      "weight": "6.5",
+      "quantity": "102"
     }
   ]
 }
