@@ -1,14 +1,14 @@
 {
-  "events": [
+  "description": [
     {
-      "id": 123,
-      "category": "animal welfare",
-      "title": "Cat Adoption Day",
-      "description": "Find your new feline friend at this event.",
-      "location": "Meow Town",
-      "date": "January 28, 2022",
-      "time": "12:00",
-      "organizer": "Kat Laydee"
+      "modelName": "Winter Village",
+      "modelTheme": "Icon",
+      "modelNumber": "20765",
+      "length": "20",
+      "height": "14",
+      "depth": "2",
+      "weight": "7.5",
+      "quantity": "25"
     }
   ]
 }
