@@ -1,6 +1,7 @@
 {
   "description": [
     {
+      "fileImage": "../.src/assets/lego-images/fender-21329.jpg",
       "modelName": "Winter Village",
       "modelTheme": "Icon",
       "modelNumber": "20765",
@@ -9,6 +10,28 @@
       "depth": "2",
       "weight": "7.5",
       "quantity": "25"
+    },
+    {
+      "fileImage": "../.src/assets/lego-images/fender-21329.jpg",
+      "modelName": "Millenium Falcon",
+      "modelTheme": "Star Wars",
+      "modelNumber": "20902",
+      "length": "25",
+      "height": "18",
+      "depth": "6",
+      "weight": "12",
+      "quantity": "40"
+    },
+    {
+      "fileImage": "../.src/assets/lego-images/fender-21329.jpg",
+      "modelName": "Diner",
+      "modelTheme": "Builder",
+      "modelNumber": "10249",
+      "length": "8",
+      "height": "8",
+      "depth": "4",
+      "weight": "6.5",
+      "quantity": "102"
     }
   ]
 }
