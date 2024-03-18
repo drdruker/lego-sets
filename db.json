@@ -1,6 +1,7 @@
 {
   "description": [
     {
+      "id": 1,
       "fileImage": "/lego-images/winter-village-10263.jpg",
       "modelName": "Winter Village",
       "modelTheme": "Icon",
@@ -12,6 +13,7 @@
       "quantity": "25"
     },
     {
+      "id": 2,
       "fileImage": "/lego-images/fender-21329.jpg",
       "modelName": "Fender Guitar",
       "modelTheme": "Star Wars",
@@ -23,6 +25,7 @@
       "quantity": "40"
     },
     {
+      "id": 3,
       "fileImage": "/lego-images/bookshop-10270.jpg",
       "modelName": "Bookshop",
       "modelTheme": "Builder",
@@ -34,6 +37,7 @@
       "quantity": "102"
     },
     {
+      "id": 4,
       "fileImage": "/lego-images/corner-garage-10264.jpg",
       "modelName": "Corner Garage",
       "modelTheme": "Builder",
@@ -45,6 +49,7 @@
       "quantity": "102"
     },
     {
+      "id": 5,
       "fileImage": "/lego-images/jazz-club-10312.jpg",
       "modelName": "Jazz Club",
       "modelTheme": "Builder",
@@ -56,6 +61,7 @@
       "quantity": "102"
     },
     {
+      "id": 6,
       "fileImage": "/lego-images/taj-mahal-10256.jpg",
       "modelName": "Taj Mahal",
       "modelTheme": "Builder",
